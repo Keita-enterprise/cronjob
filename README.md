@@ -7,3 +7,4 @@
 |Crontab command | Description |
 | ---------------|-------------|
 | crontab -l | To list the present cron jobs |
+| crontab -e | To edit a new cronjob |
